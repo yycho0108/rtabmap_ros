@@ -357,6 +357,7 @@ install(TARGETS
    rtabmap 
    rtabmapviz 
    rgbd_odometry 
+   icp_odometry
    rgbdicp_odometry 
    stereo_odometry
    map_assembler
@@ -374,6 +375,7 @@ install(TARGETS
    rtabmap_ros 
    rtabmap 
    rgbd_odometry 
+   icp_odometry
    rgbdicp_odometry 
    stereo_odometry
    map_assembler
